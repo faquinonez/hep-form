@@ -8,7 +8,8 @@ with instructions for ubuntu 16.04
 [installHEP](http://github.com/faquinonez/installHEP#install-formFORM)
 
 Here is a piece of code called `sample.frm`
-```Form
+```
+vim: syntax=java
 * Declare a and b as algebraic symbols
 Symbol a,b;
 
