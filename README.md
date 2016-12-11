@@ -1,5 +1,4 @@
 # hep-form
-GET https://github.com/repos/faquinonez/hep-form/languages
 
 The FORM software mainpage is at NIKHEF
 [FORM](http://www.nikhef.nl/~form/)
