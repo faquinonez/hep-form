@@ -8,18 +8,18 @@ with instructions for ubuntu 16.04
 [installHEP](http://github.com/faquinonez/installHEP#install-formFORM)
 
 Here is a piece of code called `sample.frm`
-<code>
-<p style="color rgb(0,255,0)"> * Declare a and b as algebraic symbols </p><br>
-<p>Symbol</p> a,b;<br>
+<code style="background-color:rgb(0,0,0)">
+<span style="color:rgb(0,255,0)"> * Declare a and b as algebraic symbols </span>
+<span>Symbol</span> a,b;
 
-<p style="color rgb(0,255,0)"> * Define local expresion [(a+b)^2] to be manipulated </p>
-<p> Local</p> [(a+b)^2] = (a+b)^2;
+<span style="color:rgb(0,255,0)"> * Define local expresion [(a+b)^2] to be manipulated </span>
+<span> Local</span> [(a+b)^2] = (a+b)^2;
 
-<p style="color rgb(0,255,0)"> * Print all expressions on buffer </p>
-<p> Print;</p>
+<span style="color:rgb(0,255,0)"> * Print all expressions on buffer </span>
+<span> Print;</span>
 
-<p style="color rgb(0,255,0)"> * finalize program</p>
-<p> .end</p>
+<span style="color:rgb(0,255,0)"> * finalize program</span>
+<span> .end</span>
 </code>
 and how it should be executed on terminal
 ```bash
