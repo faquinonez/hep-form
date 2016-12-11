@@ -11,4 +11,6 @@ id M(2,1) = c;
 id M(2,2) = d;
 Print;
 .end
+vim:syntax off
+vim:so $VIMRUNTIME/syntax/form.vim
 
