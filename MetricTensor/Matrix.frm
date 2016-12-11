@@ -1,4 +1,5 @@
-vim: syntax=form
+#commentchar !
+! lalala
 Symbol a,b,c,d;
 CFunction M;
 Indices i,j;
