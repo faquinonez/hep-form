@@ -1,6 +1,5 @@
-vim: syntax=fortran
-#commentchar !
-! lalala
+vim: syntax=form
+* lalala
 Symbol a,b,c,d;
 CFunction M;
 Indices i,j;
