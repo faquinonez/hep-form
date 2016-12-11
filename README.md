@@ -8,19 +8,20 @@ with instructions for ubuntu 16.04
 [installHEP](http://github.com/faquinonez/installHEP#install-formFORM)
 
 Here is a piece of code called `sample.frm`
-```vim: syntax=form
-* Declare a and b as algebraic symbols
-Symbol a,b;
+<p>My first paragraph.</p><p>My first paragraph.</p>
+<code>
+<p> * Declare a and b as algebraic symbols </p><br>
+<p>Symbol</p> a,b;<br>
 
-* Define local expresion [(a+b)^2] to be manipulated
-Local [(a+b)^2] = (a+b)^2;
+<p> * Define local expresion [(a+b)^2] to be manipulated </p>
+<p> Local</p> [(a+b)^2] = (a+b)^2;
 
-* Print all expressions on buffer
-Print;
+<p> * Print all expressions on buffer </p>
+<p> Print;</p>
 
-* finalize program
-.end
-```
+<p> * finalize program</p>
+<p> .end</p>
+</code>
 and how it should be executed on terminal
 ```bash
 form sample.frm
