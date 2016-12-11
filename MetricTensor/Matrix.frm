@@ -1,4 +1,4 @@
-vim: set syntax=form:
+vim: set syntax=c:
 * lalala
 Symbol a,b,c,d;
 CFunction M;
