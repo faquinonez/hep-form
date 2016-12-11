@@ -8,7 +8,6 @@ with instructions for ubuntu 16.04
 [installHEP](http://github.com/faquinonez/installHEP#install-formFORM)
 
 Here is a piece of code called `sample.frm`
-<code style="background-color:rgb(0,0,0)">
 <span style="color:rgb(0,255,0)"> * Declare a and b as algebraic symbols </span>
 <span>Symbol</span> a,b;
 
@@ -20,7 +19,6 @@ Here is a piece of code called `sample.frm`
 
 <span style="color:rgb(0,255,0)"> * finalize program</span>
 <span> .end</span>
-</code>
 and how it should be executed on terminal
 ```bash
 form sample.frm
