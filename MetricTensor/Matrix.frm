@@ -1,4 +1,4 @@
-vim: syntax=cpp
+vim: syntax=fortran
 #commentchar !
 ! lalala
 Symbol a,b,c,d;
