@@ -9,7 +9,7 @@ with instructions for ubuntu 16.04
 
 Here is a piece of code called `sample.frm`
 ```
-vim: syntax=java
+vim: syntax=form
 * Declare a and b as algebraic symbols
 Symbol a,b;
 
