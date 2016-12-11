@@ -1,6 +1,6 @@
-vim: set syntax=fortran:
-#commentchar !
-! lalala
+vim: set syntax=c:
+#commentchar *
+* This is a commented line
 Symbol a,b,c,d;
 CFunction M;
 Indices i,j;
