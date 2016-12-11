@@ -1,4 +1,6 @@
 # hep-form
+GET /repos/:owner/:repo/languages
+
 The FORM software mainpage is at NIKHEF
 [FORM](http://www.nikhef.nl/~form/)
 To get FORM please go to Vermaseren github account on repo *form*
