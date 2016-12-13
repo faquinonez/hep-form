@@ -3,7 +3,7 @@
 
 Symbol t,x,y,z;
 Index mu=4, nu=4;
-CFunction g;
+CTensor g;
 
 * Local trace = sum_( mu, 0, 3, ( sum_( nu, 0, 3, gm(mu,nu) * gm(mu,nu) ) );
 Local trace = g(mu,nu) * g(nu,mu);
