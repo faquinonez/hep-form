@@ -18,7 +18,8 @@ Local [ds2] = t^2 - x^2 - y^2 - z^ 2;
 * Let's define the Lorentz Boost
 * The frame O^{\prime} moving in the z direction with velocity v
 * normalize to 1.
-* This is also called the 
+* O^{\prime} is also called the particle frame.
+* O is also called the laboratory frame.
 identify tp =    gamma*t - v*gamma*z;
 identify zp = -v*gamma*t +   gamma*z;
 identify xp = x;
