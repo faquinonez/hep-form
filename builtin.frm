@@ -1,7 +1,7 @@
 *******************************************************************************
 * Example to show how some built in functions                                 *
 * Usage: In terminal type                                                     *
-*        form builting.frm                                                    *
+*        form builtin.frm                                                    *
 * Author: Fernando Quinonez                                                   *
 *******************************************************************************
 

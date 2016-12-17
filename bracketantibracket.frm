@@ -12,12 +12,12 @@ Local [uxv](k) = e_(1,2,3) * e_(i,j,k) * u(i) * v(j);
 Local [uxv.w] = e_(1,2,3) * e_(i,j,k) * u(i) * v(j) * w(k);
 Global [ux(vxw)](k) = e_(i,j,k) * u(i) * (e_(m,n,j) * v(m) * w(n));
 contract;
-Bracket w;
+Bracket w; * print w outside parenthesis
 Print [uxv.w];
 .sort
 
 
-AntiBracket u,v;
+AntiBracket u,v; * print last argument inside parenthesis
 Print [uxv];
 .store
 
